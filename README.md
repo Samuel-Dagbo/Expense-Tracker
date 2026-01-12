@@ -49,7 +49,7 @@ expense-tracker/
 
 ## 🌍 Live Demo
 
-👉 **Live Site:** _(Add GitHub Pages / Netlify / Vercel link here)_
+👉 **Live Site:** https://expense-tracker-yvho.onrender.com
 
 ---
 
